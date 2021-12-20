@@ -1,3 +1,2 @@
-## asghar, a simple script to fetch resources from [jsonplaceholder](https://jsonplaceholder.typicode.com/)
-
+## Screenshot
 ![alt text](https://raw.githubusercontent.com/BalliAsghar/asghar/main/Screenshot.png)
